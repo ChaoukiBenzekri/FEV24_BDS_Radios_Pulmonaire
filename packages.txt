@@ -1,0 +1,5 @@
+# Fixing the Hugging Face app build for Spaces
+ffmpeg
+libsm6
+libxext6
+libgl1
