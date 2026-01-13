@@ -111,3 +111,18 @@ wcwidth==0.2.13
 Werkzeug==3.0.2
 wrapt==1.16.0
 zipp==1.0.0
+
+# streamlit requirements
+streamlit==1.32.0
+pandas==2.2.1
+streamlit-option-menu==0.3.12
+Pillow==8.4.0
+tensorflow==2.16.1
+keras==3.3.3
+opencv-python==4.9.0.80
+numpy==1.26.4
+plotly==5.19.0
+seaborn==0.12.2
+matplotlib==3.8.4
+tensorflow-io-gcs-filesystem==0.31.0
+uuid==1.30
